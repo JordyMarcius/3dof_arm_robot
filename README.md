@@ -63,7 +63,27 @@ $$
 
 where
 
-$ J_{11} = -\frac{\sin(\theta_1)}{L_3\cos(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1) + L_3\cos(\theta_2 + \theta_3)\sin(\theta_1)\sin(\theta_1) + L_2\cos(\theta_1)\cos(\theta_1)\cos(\theta_2) + L_2\cos(\theta_2)\sin(\theta_1)\sin(\theta_1)}$
+$J_{11} = -\frac{\sin(\theta_1)}{L_3\cos(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1) + L_3\cos(\theta_2 + \theta_3)\sin(\theta_1)\sin(\theta_1) + L_2\cos(\theta_1)\cos(\theta_1)\cos(\theta_2) + L_2\cos(\theta_2)\sin(\theta_1)\sin(\theta_1)}$
+
+$J_{12} = \frac{\cos(\theta_1)}{L_3\cos(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1) + L_3\cos(\theta_2 + \theta_3)\sin(\theta_1)\sin(\theta_1) + L_2\cos(\theta_1)\cos(\theta_1)\cos(\theta_2) + L_2\cos(\theta_2)\sin(\theta_1)\sin(\theta_1)}$
+
+$J_{13} = 0$
+
+$J_{21} = -\frac{\cos(\theta_2 + \theta_3)\cos(\theta_1)}{L_2\cos(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1)\sin(\theta_2) - L_2\sin(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1)\cos(\theta_2) + L_2\cos(\theta_2 + \theta_3)\sin(\theta_1)\sin(\theta_1)\sin(\theta_2) - L_2\sin(\theta_2 + \theta_3)\cos(\theta_2)\sin(\theta_1)\sin(\theta_1)}$
+
+$J_{22} = -\frac{\cos(\theta_2 + \theta_3)\sin(\theta_1)}{L_2\cos(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1)\sin(\theta_2) - L_2\sin(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1)\cos(\theta_2) + L_2\cos(\theta_2 + \theta_3)\sin(\theta_1)\sin(\theta_1)\sin(\theta_2) - L_2\sin(\theta_2 + \theta_3)\cos(\theta_2)\sin(\theta_1)\sin(\theta_1)}$
+
+$J_{23} = -\frac{\sin(\theta_2 + \theta_3)}{L_2\cos(\theta_2 + \theta_3)\sin(\theta_2) - L_2\sin(\theta_2 + \theta_3)\cos(\theta_2)}$
+
+$J_{31} = \frac{\cos(\theta_1)(L_3\cos(\theta_2 + \theta_3) + L_2\cos(\theta_2))}{L_2L_3\cos(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1)\sin(\theta_2) - L_2L_3\sin(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1)\cos(\theta_2) + L_2L_3\cos(\theta_2 + \theta_3)\sin(\theta_1)\sin(\theta_1)\sin(\theta_2) - L_2L_3\sin(\theta_2 + \theta_3)\cos(\theta_2)\sin(\theta_1)\sin(\theta_1)}$
+
+$J_{32} = \frac{\sin(\theta_1)(L_3\cos(\theta_2 + \theta_3) + L_2\cos(\theta_2))}{L_2L_3\cos(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1)\sin(\theta_2) - L_2L_3\sin(\theta_2 + \theta_3)\cos(\theta_1)\cos(\theta_1)\cos(\theta_2) + L_2L_3\cos(\theta_2 + \theta_3)\sin(\theta_1)\sin(\theta_1)\sin(\theta_2) - L_2L_3\sin(\theta_2 + \theta_3)\cos(\theta_2)\sin(\theta_1)\sin(\theta_1)}$
+
+$J_{33} = \frac{L_3\sin(\theta_2 + \theta_3) + L_2\sin(\theta_2)}{L_2L_3\cos(\theta_2 + \theta_3)\sin(\theta_2) - L_2L_3\sin(\theta_2 + \theta_3)\cos(\theta_2)}$
+
+<h1>Control Algorithm</h1>
+
+<h1>Results</h1>
 
 ![sumbu_x_Gif](https://github.com/JordyMarcius/4dof_arm_robot/assets/65435469/83a8258e-7abf-44e9-928b-3b480e0fe042)
 

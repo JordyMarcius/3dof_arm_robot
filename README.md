@@ -128,6 +128,6 @@ Figure 6. Comparison of $y$ coordinate.
 ![image](https://github.com/JordyMarcius/3dof_arm_robot/assets/65435469/f6da398c-a32c-474a-af16-9c75bfc9d5b0)
 Figure 7. Comparison of $z$ coordinate.
 
-<h1>References</h1>
+<h1>Reference</h1>
 
 - Farman, Madiha & Al-Shaibah, Muneera & Aoraiath, Zoha & Jarrar, Firas. (2018). Design of a Three Degrees of Freedom Robotic Arm. International Journal of Computer Applications. 179. 12-17. 10.5120/ijca2018916848. 

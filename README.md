@@ -93,6 +93,11 @@ $J_{33} = \frac{L_3\sin(\theta_2 + \theta_3) + L_2\sin(\theta_2)}{L_2L_3\cos(\th
 
 <h1>Results Comparison</h1>
 
+![image](https://github.com/JordyMarcius/3dof_arm_robot/assets/65435469/f420d7cb-e81c-41ef-ae20-f4ba02b2c175)
+
+![image](https://github.com/JordyMarcius/3dof_arm_robot/assets/65435469/f72c69a1-5a7e-40b5-8709-f4bf846182cf)
+
+![image](https://github.com/JordyMarcius/3dof_arm_robot/assets/65435469/f6da398c-a32c-474a-af16-9c75bfc9d5b0)
 
 <h1>References</h1>
 

@@ -101,7 +101,7 @@ Flow of task space control:
 
 <h1>Simulation</h1>
 
-*Please click the start button in the right top of the .gif picture if the .gif motion is disabled.*
+*Please click the start button in the right top of the .gif picture if the .gif motion was disabled.*
 
 ![sumbu_x_Gif](https://github.com/JordyMarcius/4dof_arm_robot/assets/65435469/83a8258e-7abf-44e9-928b-3b480e0fe042)
 Figure 1. Robotic arm movement in $x$-axis

@@ -120,13 +120,16 @@ Figure 4. Robotic arm movement in $xyz$-axis
 Below are the results comparison of an actual and reference of end effector coordinate. The purple line shows the reference coordinate and the green line shows the actual coordinate of end effector in $xyz$-axis. As can be seen in those figures, the end effector of this robotic arm can track the reference coordinate and follow the line trajectory. It indicates that the control algorithm was implemented correctly.
 
 ![image](https://github.com/JordyMarcius/3dof_arm_robot/assets/65435469/f420d7cb-e81c-41ef-ae20-f4ba02b2c175)
-Figure 5. Comparison of $x$ coordinate.
+Figure 5. Comparison of $x$ coordinate
 
 ![image](https://github.com/JordyMarcius/3dof_arm_robot/assets/65435469/f72c69a1-5a7e-40b5-8709-f4bf846182cf)
-Figure 6. Comparison of $y$ coordinate.
+Figure 6. Comparison of $y$ coordinate
 
 ![image](https://github.com/JordyMarcius/3dof_arm_robot/assets/65435469/f6da398c-a32c-474a-af16-9c75bfc9d5b0)
-Figure 7. Comparison of $z$ coordinate.
+Figure 7. Comparison of $z$ coordinate
+
+![image](https://github.com/JordyMarcius/3dof_arm_robot/assets/65435469/5706d96b-fe33-4b24-b100-fc058b9720f4)
+Figure 8. Angle Response
 
 <h1>Reference</h1>
 
